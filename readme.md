@@ -9,8 +9,9 @@
 
 ### 开发DDL
 
-- [以组排列](https://github.com/DAASTA/EDC2016_logic/blob/master/DDL_detail.csv)
-- [以时间排列](https://github.com/DAASTA/EDC2016_logic/blob/master/DDL_overview.csv)
+- [以组排列DDL](https://github.com/DAASTA/EDC2016_logic/blob/master/DDL_detail.csv)
+- [以时间排列DDL](https://github.com/DAASTA/EDC2016_logic/blob/master/DDL_overview.csv)
+- [开发日志](https://github.com/DAASTA/EDC2016_logic/blob/master/log.md)
 
 ### 开发分组
 
