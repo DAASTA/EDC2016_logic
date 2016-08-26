@@ -3,7 +3,7 @@
 
 ## 规则
 
-- [规则初稿](https://github.com/DAASTA/EDC2016_logic/blob/master/%E8%A7%84%E5%88%99%E8%AE%BE%E5%AE%9A.md)
+- [规则设定](https://github.com/DAASTA/EDC2016_logic/blob/master/%E8%A7%84%E5%88%99%E8%AE%BE%E5%AE%9A.md)
 
 ## 开发者
 
@@ -12,6 +12,7 @@
 - [以组排列DDL](https://github.com/DAASTA/EDC2016_logic/blob/master/DDL_detail.csv)
 - [以时间排列DDL](https://github.com/DAASTA/EDC2016_logic/blob/master/DDL_overview.csv)
 - [开发日志](https://github.com/DAASTA/EDC2016_logic/blob/master/log.md)
+- [2016秋时间表](https://github.com/DAASTA/EDC2016_logic/blob/master/time_table.csv)
 
 ### 开发分组
 
