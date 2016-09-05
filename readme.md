@@ -27,5 +27,6 @@
 
 ## 网宣
 
-- [电设网站](https://github.com/eesast/Electronic-Design-Competition-Web)
+- [电设主页](http://thedc.eesast.com)
+- [电设网站开发](https://github.com/eesast/Electronic-Design-Competition-Web)
 
