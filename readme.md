@@ -3,7 +3,7 @@
 
 ## 规则
 
-- [规则设定](https://github.com/DAASTA/EDC2016_logic/blob/master/rule_20160924.md)
+- [规则设定](https://github.com/DAASTA/EDC2016_logic/blob/master/rule.md)
 
 ## 开发者
 
